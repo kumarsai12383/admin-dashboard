@@ -49,7 +49,6 @@ This project is a fully functional admin dashboard interface designed with a cle
 ```
 admin dashboard project/
 ├── index.html      # Main admin dashboard page
-├── width.html      # Content area layout prototype
 └── README.md       # Project documentation
 ```
 
